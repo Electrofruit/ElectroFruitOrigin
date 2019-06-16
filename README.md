@@ -1,4 +1,4 @@
-# Hardware Link for [COO](https://github.com/energywebfoundation/ewf-coo)
+# Electro Fruit flavoured Hardware Link for [COO](https://github.com/energywebfoundation/ewf-coo)
 [![](https://img.shields.io/badge/version-dev-red.svg)](https://softwareengineering.stackexchange.com/questions/61726/define-production-ready)
 
 [Energyweb](energyweb.org) link is a hardware oriented project to integrate energy assets to the [Origin DAPP](](https://github.com/energywebfoundation/ewf-coo)).
